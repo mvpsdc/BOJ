@@ -6,5 +6,5 @@ ar_reverse_sorted = list(reversed(ar_sorted))
 if ar == ar_sorted:
     print('ascending')
 elif ar == ar_reverse_sorted:
-    print('desceding')
+    print('descending')
 else: print('mixed')
